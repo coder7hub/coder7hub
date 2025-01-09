@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coder7hub
-- 👀 I’m interested in designing
-- 🌱 I’m currently learning html, css, java script, react,figma 
+- 👀 I’m interested in software engineer,desing
+- 🌱 I’m currently learning html, css, java script, react,figma ,tailwindcss,bootstrap,vite,next.js..
 - 💞️ I’m looking to collaborate on company 
 - 📫 How to reach me ... linkedin:Ilyos Qodirov
 - 😄 Pronouns🕖
